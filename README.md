@@ -1,11 +1,11 @@
 # Hi, I'm Carles 👋
 
-### Full-Stack Developer · AI & Finance
+### Full-Stack Developer · AI & Algorithmic Trading
 
-19-year-old developer based in **Zürich, Switzerland** 🇨🇭, focused on building
-**finance and AI systems** — from algorithmic trading infrastructure to full-stack
-products. I learn fast and ship: 6 production apps in a 6-month industry role, plus a
-portfolio of my own finance/AI projects.
+19-year-old developer based in **Zürich, Switzerland** 🇨🇭, building **AI-powered software
+and algorithmic trading systems** — from trading infrastructure to full-stack products.
+I work AI-native (multi-agent tools) and ship fast: 6 production apps in a 6-month industry
+role, plus a portfolio of my own finance/AI projects.
 
 🌍 **Trilingual:** Spanish (native) · German (C1) · English (professional)
 
@@ -15,9 +15,10 @@ portfolio of my own finance/AI projects.
 
 **🤖 Algorithmic Trading System — "Mini Hedge Fund"** *(private — strategy IP)*
 An institutional-style, multi-strategy trading platform: research → backtesting →
-governance → deployment → live monitoring. 7–9 strategies across FX, crypto and indices,
+governance → deployment → live monitoring. 7 strategies, multi-asset (FX, indices, crypto),
 ~500 Python modules, 566 passing tests, automated VPS deployment. Strong risk control
-(Sharpe ≈ 1.15, max drawdown < 2%). *Architecture walkthrough available on request.*
+(Sharpe ≈ 1.15, max drawdown < 2%) with rigorous out-of-sample validation.
+*Architecture walkthrough available on request.*
 
 **📊 [polymarket-bot](https://github.com/Gurdiel07/polymarket-bot)** · `Python · asyncio · DuckDB`
 Async data pipeline that ingests Polymarket prediction-market data and tracks whale
@@ -36,7 +37,7 @@ risk guards (dry-run, per-trade and daily-loss caps).
 
 ### 💼 Experience
 
-**Software Developer — IT company** *(6 months)*
+**Software Engineer — A+E Informatik GmbH** *(6 months)*
 Built and shipped **6 production applications**, including:
 - a **full-stack task & customer-support platform** (Next.js, React, TypeScript, SQLite)
 - a **security vulnerability scanner** (Python backend + web frontend + Playwright)
@@ -55,6 +56,7 @@ Built and shipped **6 production applications**, including:
 
 ### 📫 Get in touch
 
+- 🌐 Website: [carlesgurdiel.com](https://carlesgurdiel.com)
 - 💼 LinkedIn: [carlesgurdiel](https://www.linkedin.com/in/carlesgurdiel)
 - 📍 Zürich, Switzerland — open to **Praktikum / part-time (50–70%)** and **freelance**
-- 🌐 Focus: finance · algorithmic trading · AI applications
+- 🎯 Focus: AI-powered software · algorithmic trading · full-stack apps
