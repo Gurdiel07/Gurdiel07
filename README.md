@@ -3,7 +3,7 @@
 ### Full-Stack Developer · AI & Algorithmic Trading
 
 19-year-old developer based in **Zürich, Switzerland** 🇨🇭, building **AI-powered software
-and algorithmic trading systems** — from trading infrastructure to full-stack products.
+and algorithmic trading systems**, from trading infrastructure to full-stack products.
 I work AI-native (multi-agent tools) and ship fast: 6 production apps in a 6-month industry
 role, plus a portfolio of my own finance/AI projects.
 
@@ -13,7 +13,7 @@ role, plus a portfolio of my own finance/AI projects.
 
 ### 🚀 Featured projects
 
-**🤖 Algorithmic Trading System — "Mini Hedge Fund"** *(private — strategy IP)*
+**🤖 Algorithmic Trading System: "Mini Hedge Fund"** *(private, strategy IP)*
 An institutional-style, multi-strategy trading platform: research → backtesting →
 governance → deployment → live monitoring. 7 strategies, multi-asset (FX, indices, crypto),
 ~500 Python modules, 566 passing tests, automated VPS deployment. Strong risk control
@@ -37,7 +37,7 @@ risk guards (dry-run, per-trade and daily-loss caps).
 
 ### 💼 Experience
 
-**Software Engineer — A+E Informatik GmbH** *(6 months)*
+**Software Engineer · A+E Informatik GmbH** *(6 months)*
 Built and shipped **6 production applications**, including:
 - a **full-stack task & customer-support platform** (Next.js, React, TypeScript, SQLite)
 - a **security vulnerability scanner** (Python backend + web frontend + Playwright)
@@ -58,5 +58,5 @@ Built and shipped **6 production applications**, including:
 
 - 🌐 Website: [carlesgurdiel.com](https://carlesgurdiel.com)
 - 💼 LinkedIn: [carlesgurdiel](https://www.linkedin.com/in/carlesgurdiel)
-- 📍 Zürich, Switzerland — open to **Praktikum / part-time (50–70%)** and **freelance**
+- 📍 Zürich, Switzerland · open to **Praktikum / part-time (50–70%)** and **freelance**
 - 🎯 Focus: AI-powered software · algorithmic trading · full-stack apps
